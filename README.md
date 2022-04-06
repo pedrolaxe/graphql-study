@@ -2,8 +2,6 @@
 
 All requests in Graphql are POST.
 
-Endpoint: http://localhost:4000/graphql
-
 - Query -> get information
 - Mutation -> change information
 - Scalar types -> String, Int, Float, Boolean and ID
@@ -16,7 +14,12 @@ Running dev mode:
 yarn dev
 ```
 
-### Graphql Queries and Mutations examples
+Open browser:
+
+http://localhost:4000/graphql
+
+
+### Queries and Mutations examples
 
 Query users example:
 

@@ -8,6 +8,8 @@ Endpoint: http://localhost:4000/graphql
 - Mutation -> change information
 - Scalar types -> String, Int, Float, Boolean and ID
 
+Line 2 is added but in apolloServer 3 disabled the graphql playground.
+
 Running:
 
 ```
